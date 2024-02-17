@@ -1,1 +1,1 @@
-# This repository contains all the projects created in Streamlit 
+# This repository contains all the projects created in streamlit 
